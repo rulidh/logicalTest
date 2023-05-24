@@ -1,1 +1,3 @@
 Python array length
+Cara memisahkan kalimat menjadi perkata python
+how to remove spesific character in python
