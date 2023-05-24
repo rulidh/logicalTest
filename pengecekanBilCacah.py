@@ -1,3 +1,5 @@
+#cek bilangan cacah terkecil dari contoh array yang tersedia
+
 arrNum= [8, 6, 7, 12]       #Inisialisasi array
 arrNum.sort()               #Mengurutkan array
 num= arrNum[0]              #inisialisasi number agar sama dengan index pertama array
