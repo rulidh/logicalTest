@@ -18,6 +18,7 @@ while True:                             #looping
                 #mengecek semua huruf pada sandi apakah ada huruf kecil dan besar
                 if any(char.isupper() for char in sandi) and any(char.islower() for char in sandi):
                     print("Kata sandi valid")
+                    break
                 else:
                     print("Harus memiliki huruf kapital dan huruf kecil")
             else:
