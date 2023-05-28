@@ -5,6 +5,7 @@ Email : rulidh02@gmail.com
 
 Untuk menggunakan program yang telah dibuat, bisa menggunakan Text Editor seperti Visual Studio Code atau pyCharm atau yang lain sesuai kenyamanan pengguna.
 Lalu klik tanda berikut untuk menjalankan program jika memakai text editor Visual Studio Code.
+
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/2276e54c-03f5-4ce8-9eee-0fcbf6696ae8)
 
 Pertanyaan pertama adalah untuk membuat fungsi dengan menampilkan bilangan cacah kelipatan 3 atau 7 sebanyak N dan akan menampilkan huruf Z ketika angka yang muncul adalah angka yang merupakan kelipatan 3 dan kelipatan 7.
