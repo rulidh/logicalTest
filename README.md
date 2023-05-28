@@ -20,7 +20,7 @@ b. Kata sandi maksimal 32 karakter
 c. Karakter awal tidak boleh angka
 d. Harus memiliki angka
 e. Harus memiliki huruf kapital dan huruf kecil
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/c2a08454-77e9-4d2d-9e81-0dfd9fb5b657)
+![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Pengecekan%20Sandi.png)
 
 Pertanyaan keempat adalah untuk membuat fungsi pengecekan bilangan cacah terkecil yang tidak ada dari data yang diinputkan dari suatu array tertentu.
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/a1b56c8f-a81e-4cb6-a9d2-9f4e129a19f4)
