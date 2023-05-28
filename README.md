@@ -23,17 +23,9 @@ e. Harus memiliki huruf kapital dan huruf kecil
 ![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Pengecekan%20Sandi.png)
 
 Pertanyaan keempat adalah untuk membuat fungsi pengecekan bilangan cacah terkecil yang tidak ada dari data yang diinputkan dari suatu array tertentu.
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/a1b56c8f-a81e-4cb6-a9d2-9f4e129a19f4)
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/b4b36de8-9a5d-4112-bacc-57f1476f8950)
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/2723573c-d3a7-43e4-bb5c-ce29bfb619da)
+![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Pengecekan%20Bil%20Cacah.png)
 
 Pertanyaan kelima adalah untuk membuat pola sebagai berikut sesuai inputan N dengan N adalah bilangan ganjil:
-jika N= 5, output:
-XXXXX
-XOOXX
-XOXOX
-XXOOX
-XXXXX
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/c5c91798-61b7-466d-9ae5-63ffd91336eb)
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/04b95851-dc85-4141-b3cc-3591345a5815)
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/2d9f87f2-429c-4ba6-9113-95f125fcad8e)
