@@ -9,7 +9,7 @@ Lalu klik tanda berikut untuk menjalankan program jika memakai text editor Visua
 ![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Run%20Code.png)
 
 Pertanyaan pertama adalah untuk membuat fungsi dengan menampilkan bilangan cacah kelipatan 3 atau 7 sebanyak N dan akan menampilkan huruf Z ketika angka yang muncul adalah angka yang merupakan kelipatan 3 dan kelipatan 7.
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/4da860d0-ea74-4e5c-b29d-9e4a74ef9221)
+![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Kelipatan%203%20dan%207.png)
 
 Pertanyaan kedua adalah untuk membuat fungsi pencarian 'sang gajah', 'serigala', dan 'harimau' dari suatu input tertentu.
 ![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/fa477c9f-2cd8-4933-b1eb-52bead7ce1e0)
