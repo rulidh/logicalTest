@@ -12,7 +12,7 @@ Pertanyaan pertama adalah untuk membuat fungsi dengan menampilkan bilangan cacah
 ![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/Kelipatan%203%20dan%207.png)
 
 Pertanyaan kedua adalah untuk membuat fungsi pencarian 'sang gajah', 'serigala', dan 'harimau' dari suatu input tertentu.
-![image](https://github.com/rulidh/logicalTest-Finplan/assets/94828760/fa477c9f-2cd8-4933-b1eb-52bead7ce1e0)
+![image](https://github.com/rulidh/logicalTest-Finplan/blob/main/img/gajah%2C%20serigala%2C%20dan%20harimau.png)
 
 Pertanyaan ketiga adalah untuk membuat fungsi pengecekan kata sandi, dengan ketentuan sebagai berikut:
 a. Kata sandi minimal 8 karakter
